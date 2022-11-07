@@ -1,0 +1,4 @@
+localhost:2015 {
+    root dist
+    tls localhost.crt localhost.key
+}
